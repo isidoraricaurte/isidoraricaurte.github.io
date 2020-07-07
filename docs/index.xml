@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taller Ciudad y Espacio 2020 on Nombre Alumno</title>
-    <link>https://maxlara.github.io/docs/</link>
+    <link>https://isidoraricaurte.github.io/docs/</link>
     <description>Recent content in Taller Ciudad y Espacio 2020 on Nombre Alumno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
     
-	<atom:link href="https://maxlara.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://isidoraricaurte.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Encargo 1</title>
-      <link>https://maxlara.github.io/docs/proyecto/encargo-1/</link>
+      <link>https://isidoraricaurte.github.io/docs/proyecto/encargo-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://maxlara.github.io/docs/proyecto/encargo-1/</guid>
+      <guid>https://isidoraricaurte.github.io/docs/proyecto/encargo-1/</guid>
       <description>Objetivos generales y específicos del Proyecto a realizar.</description>
     </item>
     
     <item>
       <title>Configuración</title>
-      <link>https://maxlara.github.io/docs/configuracion/</link>
+      <link>https://isidoraricaurte.github.io/docs/configuracion/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://maxlara.github.io/docs/configuracion/</guid>
+      <guid>https://isidoraricaurte.github.io/docs/configuracion/</guid>
       <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
     </item>
     
