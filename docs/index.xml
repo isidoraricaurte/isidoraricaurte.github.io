@@ -13,11 +13,20 @@
     
     <item>
       <title>Encargo 1</title>
-      <link>https://isidoraricaurte.github.io/docs/proyecto/encargo-1/</link>
+      <link>https://isidoraricaurte.github.io/docs/encargo-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://isidoraricaurte.github.io/docs/proyecto/encargo-1/</guid>
+      <guid>https://isidoraricaurte.github.io/docs/encargo-1/</guid>
       <description>Objetivos generales y específicos del Proyecto a realizar.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 2</title>
+      <link>https://isidoraricaurte.github.io/docs/encargo-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isidoraricaurte.github.io/docs/encargo-2/</guid>
+      <description>Documentación encargo 2 modelacion 3D taller espacio y ciudad.</description>
     </item>
     
     <item>
