@@ -32,11 +32,20 @@
     </item>
     
     <item>
-      <title>Invernadero y Planta de agua</title>
-      <link>https://isidoraricaurte.github.io/docs/encargo-2/</link>
+      <title>Invernadero</title>
+      <link>https://isidoraricaurte.github.io/docs/invernadero/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://isidoraricaurte.github.io/docs/encargo-2/</guid>
+      <guid>https://isidoraricaurte.github.io/docs/invernadero/</guid>
+      <description>Documentación encargo 2 modelacion 3D taller espacio y ciudad.</description>
+    </item>
+    
+    <item>
+      <title>Planta de agua</title>
+      <link>https://isidoraricaurte.github.io/docs/planta-de-agua/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isidoraricaurte.github.io/docs/planta-de-agua/</guid>
       <description>Documentación encargo 2 modelacion 3D taller espacio y ciudad.</description>
     </item>
     
