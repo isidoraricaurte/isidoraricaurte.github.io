@@ -74,5 +74,23 @@
       <description>Control Numérico Computarizado Entrada la década del ’50 se introdujo en Estados Unidos el concepto de control numérico (CN) en una fresadora, que usaba tecnología de válvulas de vacío y la carga de datos se realizaba mediante tarjetas perforadas.</description>
     </item>
     
+    <item>
+      <title>Molde y Fundición</title>
+      <link>https://isidoraricaurte.github.io/Tallerfabricaciondigital/docs/molde-palmeta/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://isidoraricaurte.github.io/Tallerfabricaciondigital/docs/molde-palmeta/</guid>
+      <description>Molde y fundición mediante la técnica de desbaste en CNC Este proceso de desbaste en CNC es similar al proceso de mecanizado 2.5D realizado para el respaldo de la silla (Mecanizado en CNC), por lo que lo primero es generar el espacio de trabajo, el bloque sobre el cual se hará el desbaste.</description>
+    </item>
+    
+    <item>
+      <title>Investigación Material</title>
+      <link>https://isidoraricaurte.github.io/Tallerfabricaciondigital/docs/investigacion-material/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://isidoraricaurte.github.io/Tallerfabricaciondigital/docs/investigacion-material/</guid>
+      <description>Cartón El cartón es una lámina gruesa y dura, compuesta de varias capas de pasta de papel, de pasta de trapos, de papel viejo u otras materias que, en estado húmedo, se adhieren unas a otras por compresión y después se secan por evaporación.</description>
+    </item>
+    
   </channel>
 </rss>
