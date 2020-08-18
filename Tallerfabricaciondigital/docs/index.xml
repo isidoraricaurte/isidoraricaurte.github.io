@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fabricación Digital on Nombre Alumno</title>
+    <title>Fabricación Digital on Isidora Ricaurte</title>
     <link>https://isidoraricaurte.github.io/Tallerfabricaciondigital/docs/</link>
-    <description>Recent content in Fabricación Digital on Nombre Alumno</description>
+    <description>Recent content in Fabricación Digital on Isidora Ricaurte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
@@ -102,6 +102,15 @@
 
 \
 Objetivo Crear un contenedor de plantas que fuese biodegradable y útil para ella en términos de nutrientes y fertilización.</description>
+    </item>
+    
+    <item>
+      <title>Proceso Moldeado</title>
+      <link>https://isidoraricaurte.github.io/Tallerfabricaciondigital/docs/moldeado/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://isidoraricaurte.github.io/Tallerfabricaciondigital/docs/moldeado/</guid>
+      <description>Fabricación Moldeado La fabricación por moldes se aplica en diferentes áreas y de variadas formas, esta se puede encontrar en artesanía, orfebrería, juguetes, piezas de cableado y otras, packaging, accesorios automovilísticos, electrodomésticos, elementos urbanos, construcción y finalmente en el ámbito industrial.</description>
     </item>
     
   </channel>
